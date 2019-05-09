@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Property</key>
+		<dict>
+			<key>Definition</key>
+			<string>A property is a member that provides a flexible mechanism to read, write, or compute the value of a private field.</string>
+			<key>FirstUse</key>
+			<dict/>
+		</dict>
+		<key>Execution</key>
+		<dict>
+			<key>Definition</key>
+			<string>Execution in computer and software engineering is the process by which a computer or virtual machine executes the instructions of a computer program. Each instruction of a program is a description of a specific action to be carried out in order for a specific problem to be solved; as instructions of a program and therefore the actions they describe are being carried out by an executing machine, specific effects are produced in accordance to the semantics of the instructions being executed.</string>
+			<key>FirstUse</key>
+			<dict/>
+		</dict>
+		<key>Argument</key>
+		<dict>
+			<key>Definition</key>
+			<string>In programming, an argument is a value that is passed between programs, subroutines or functions.</string>
+			<key>FirstUse</key>
+			<dict/>
+		</dict>
+		<key>Parameter</key>
+		<dict>
+			<key>Definition</key>
+			<string>In programming, an parameter is a value that is passed between programs, subroutines or functions.</string>
+			<key>FirstUse</key>
+			<dict/>
+		</dict>
+		<key>Object</key>
+		<dict>
+			<key>Definition</key>
+			<string>A particular instance of a class, where the object can be a combination of variables, functions, and data structures.</string>
+			<key>FirstUse</key>
+			<dict/>
+		</dict>
+		<key>Function</key>
+		<dict>
+			<key>Definition</key>
+			<string>A function contains a unit of code that works on various inputs, many of which are variables, and produces concrete results involving changes to variable values or actual operations based on the inputs.</string>
+			<key>FirstUse</key>
+			<dict/>
+		</dict>
+		<key>String</key>
+		<dict>
+			<key>Definition</key>
+			<string>A Unicode string value that is a collection of characters.</string>
+			<key>FirstUse</key>
+			<dict/>
+		</dict>
+		<key>Integer</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict/>
+			<key>Definition</key>
+			<string>An integer is a whole number (not a fractional number) that can be positive, negative, or zero.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

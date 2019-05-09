@@ -1,0 +1,20 @@
+/*
+See LICENSE folder for this template’s licensing information.
+
+Abstract:
+Contains English localizations of values in Manifest.plist files in the playground book.
+*/
+
+// Playground Names
+"PlaygroundBookName" = "Sunny's Story";
+
+// Chapter Names
+"C1Name" = "Sunny's Story";
+"C2Name" = "My Story";
+
+// Page Names
+"C1P1Name" = "Discover Together";
+"C1P2Name" = "Be Independent";
+"C1P3Name" = "Meet new Friends";
+"C1P4Name" = "Go Further";
+"C2P1Name" = "My Story";
