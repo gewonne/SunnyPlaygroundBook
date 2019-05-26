@@ -9,7 +9,8 @@ This Playground Book is about Sunny, a sun that has some personal issues. Throug
 In this repository you can find;
 - The compiled **playgroundbook** file that can be put on an iPad running Swift playgrounds 2.0. (The enitre folder with extension .playgroundbook.)
 - The full **project** in XCode, for when you want to get freaky with the code.
-- A link to a **video** of the playground on Youtube. (Still need to upload it...)
+- The **video** of the playground on [YouTube](https://youtu.be/Iqhe5GJcDtg).  
+
 
 ## License
 The Playgroundbook is made with the Playgroundbook-Template provided by Apple. I can recommend this template when you are starting your first Playgroundbook project yourself. This template can be found in the [More Downloads Portal](https://developer.apple.com/download/more/?=Swift%20Playgrounds%20Author%20Template) of Apple.
