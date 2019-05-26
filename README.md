@@ -15,11 +15,3 @@ In this repository you can find;
 
 ## License
 The Playgroundbook is made with the Playgroundbook-Template provided by Apple. I can recommend this template when you are starting your first Playgroundbook project yourself. This template can be found in the [More Downloads Portal](https://developer.apple.com/download/more/?=Swift%20Playgrounds%20Author%20Template) of Apple.
-
-=======
-- A link to a **video** of the playground on Youtube. (Still need to upload it...)
-
-## License
-The Playgroundbook is made with the Playgroundbook-Template provided by Apple. I can recommend this template when you are starting your first Playgroundbook project yourself. This template can be found in the [More Downloads Portal](https://developer.apple.com/download/more/?=Swift%20Playgrounds%20Author%20Template) of Apple.
-
->>>>>>> master
